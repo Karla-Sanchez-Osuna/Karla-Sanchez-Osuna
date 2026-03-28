@@ -1,3 +1,4 @@
+![Alt text](https://github.com/Karla-Sanchez-Osuna/Karla-Sanchez-Osuna/blob/main/github-header-banner.png?raw=true)
 
 
 I'm a backend student with a passion for coding and a love for learning new technologies. I'm excited to share my projects and experiences with you.
