@@ -17,12 +17,20 @@ I'm a backend student with a passion for coding and a love for learning new tech
 * 🚀 I'm excited to continue learning and growing as a developer.
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karla-Sanchez-Osuna&theme=dracula)](https://github.com/Karla-Sanchez-Osuna)
 
-**Thanks for visiting my profile!**
+
+
+
+<p align="center" style="font-size: 30x; font-style: italic;">"The greatest glory in living lies not in never falling, but in rising every time we fall." - Izuku Midoriya (My Hero Academia)</p>
+
+<p align="center" style="font-size: 30px; font-style: italic;">Thanks for visting my profile!!</p
+
+
+
 
 
