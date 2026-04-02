@@ -5,7 +5,7 @@ I'm a backend student with a passion for coding and a love for learning new tech
 --
 **About Me**
 
-* 🌟 I'm a backend development enthusiast with a passion for building scalable and efficient systems exercises.
+* 🌟 I'm a backend development enthusiast with a passion for building scalable and efficient applications.
 * 💻 I've worked on various projects, including a CRUD demo app, a War card game, and JUnit testing, which you can find in my repositories.
 *  📚 I'm always looking to learn more and expand my skillset.
 *  🎨 In my free time, I enjoy reading, watching movies, TV shows, and anime.
